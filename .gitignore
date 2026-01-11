@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Node dependencies
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+
+# AWS key pair
+*.pem
